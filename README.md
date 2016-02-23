@@ -1,2 +1,3 @@
 # hello-world
 initial repo
+I'm new to this, so learning. Name is Eric, working on becoming a tech trainer...
